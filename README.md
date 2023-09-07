@@ -12,12 +12,19 @@ In order to Use the Command Line inteface tool ;
 -exports.exe 
 -Now use any of the following commands to converts texts to and from MORSE CODE OR ASCII CODE FORMATS 
 -The delimiter used to split  the strings is "+" ; 
+
 -TO_MORSE + TEXT_TO_CONVERT 
+
 -TO_ASCII + TEXT_TO_TRANSLATE 
+
 -FROM_ASCII + TEXT_TO_CONVERT  
+
 -FROM_MORSE + TEXT_TO_TRANSLATE 
+
 -MORSE_ASCII + TEXT_TO_CONVERT
+
 -ASCII_MORSE + TEXT_TO_TRANSLATE
+
 -FROM_FILE + DIRECTORY_OF_FILE  ;
 
 Note : 
